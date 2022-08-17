@@ -27,7 +27,7 @@ header a:hover {
 
 .home-title {
   font-size: 3rem;
-  color: white;
+  color: rgb(48, 24, 24);
   background-color: #D2E5D0;
   padding: 10px;
   display: inline-block;
@@ -158,6 +158,7 @@ main {
   font-style: italic;
   font-size: 80%;
   margin: 2px;
+  color: #ccc;
 }
 
 .post-text {
