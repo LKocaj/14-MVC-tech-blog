@@ -12,7 +12,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: white;
+  color: #D2E5D0;
   font-weight: bold;
   transition: color .1s;
 }
@@ -28,11 +28,11 @@ header a:hover {
 .home-title {
   font-size: 3rem;
   color: white;
-  background-color: #333;
+  background-color: rgb(100, 120, 55);
   padding: 10px;
   display: inline-block;
   border-radius: 5px;
-  box-shadow: 5px 7px lightgray;
+  box-shadow: 5px 7px #D2E5D0;
 }
 
 button {
@@ -91,7 +91,7 @@ form label {
 }
 
 header {
-  background-color: lightslategray;
+  background-color: rgb(48, 24, 24);
   border-bottom: 1px solid #ccc;
   display: flex;
   justify-content: space-between;
