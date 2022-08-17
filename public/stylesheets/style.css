@@ -157,7 +157,7 @@ main {
   font-style: italic;
   font-size: 80%;
   margin: 2px;
-  color: #ccc;
+  color: rgb(139, 137, 137);
 }
 
 .post-text {
@@ -186,7 +186,7 @@ main {
 .comment {
   padding: 1%;
   margin-bottom: 1%;
-  background: #ccc;
+  background: rgb(255, 255, 255);
 }
 
 .comment:nth-child(odd) {
