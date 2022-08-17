@@ -60,17 +60,30 @@ Your challenge this week is to build a CMS-style blog site similar to a Wordpres
 
 ## Built With
 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-<br>
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<br>
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-<br>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-and much more
-<br>
+![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 
+![MySQL](https://img.shields.io/badge/-MySql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+with the following npm packages
+* `express.js` 
+* `dotenv`
+* `Sequelize`
+* `bcrypt`
+* `express-handlebars` 
+* `express-session`
+* `connect-session-sequelize`
+
+## Preview
+### Screenshots
+![Homepage](./assets/preview1.jpg)
+![Dashboard](./assets/preview2.jpg)
+![Create New Post](./assets/preview3.jpg)
+![Single post view](./assets/preview4.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
