@@ -28,11 +28,11 @@ header a:hover {
 .home-title {
   font-size: 3rem;
   color: white;
-  background-color: rgb(100, 120, 55);
+  background-color: #D2E5D0;
   padding: 10px;
   display: inline-block;
   border-radius: 5px;
-  box-shadow: 5px 7px #D2E5D0;
+  box-shadow: 5px 7px #99a298;
 }
 
 button {
@@ -107,7 +107,7 @@ header h1 {
 main {
   flex: 1;
   padding: 2% 4%;
-  background-color: gainsboro;
+  background-color: #D2E5D0;
 }
 
 .btn-no-style {
