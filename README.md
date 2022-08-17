@@ -13,6 +13,7 @@
     <a href="https://tech-block-14-mvc.herokuapp.com"><strong>Heroku deployed project</strong></a>
     <br />
     <br />
+  
   </p>
 </div>
 
@@ -80,10 +81,10 @@ with the following npm packages
 
 ## Preview
 ### Screenshots
-![Homepage](./assets/preview1.jpg)
-![Dashboard](./assets/preview2.jpg)
-![Create New Post](./assets/preview3.jpg)
-![Single post view](./assets/preview4.jpg)
+![Homepage](./assets/preview1.png)
+![Dashboard](./assets/preview2.png)
+![Create New Post](./assets/preview3.png)
+![Single post view](./assets/preview4.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,9 +199,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Lawrence Kocaj 
 
 Email: lawrencecaj@gmail.com
+<br>
+<br>
 Project Link: [https://github.com/lkocaj/14-MVC-challenge](https://github.com/your_username/repo_name)
 <br>
-Heroku: https://mvc-14-techblog.herokuapp.com/ | https://git.heroku.com/mvc-14-techblog.git
+<br>
+Heroku: https://mvc-14-techblog.herokuapp.com/ <br>
+https://git.heroku.com/mvc-14-techblog.git
+<br>
 <br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 
