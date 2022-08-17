@@ -187,7 +187,7 @@ Lawrence Kocaj
 Email: lawrencecaj@gmail.com
 Project Link: [https://github.com/lkocaj/14-MVC-challenge](https://github.com/your_username/repo_name)
 <br>
-Heroku: https://tech-block-14-mvc.herokuapp.com/ | https://git.heroku.com/tech-block-14-mvc.git
+Heroku: https://mvc-14-techblog.herokuapp.com/ | https://git.heroku.com/mvc-14-techblog.git
 <br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 
