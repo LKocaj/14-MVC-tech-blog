@@ -186,6 +186,7 @@ main {
 .comment {
   padding: 1%;
   margin-bottom: 1%;
+  background: #ccc;
 }
 
 .comment:nth-child(odd) {
