@@ -10,7 +10,7 @@
   <p align="center">
     A CMS-style blog site where developers can publish their blog posts and comment on other developers’ posts!
     <br />
-    <a href="https://tech-block-14-mvc.herokuapp.com"><strong>Heroku deployed project</strong></a>
+    <a href="https://mvc-14-techblog.herokuapp.com/"><strong>Heroku deployed project</strong></a>
     <br />
     <br />
   
