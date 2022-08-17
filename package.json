@@ -1,7 +1,7 @@
 {
   "name": "mvc-blog",
   "version": "1.0.0",
-  "description": "CMS style tech blog",
+  "description": "div id=\"top\"></div",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,17 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/KrispyWing/mvc-blog.git"
   },
-  "keywords": [
-    "MVC",
-    "CMS",
-    "blog"
-  ],
-  "author": "KrispyWing",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrispyWing/mvc-blog/issues"
+    "url": "https://github.com/LKocaj/14-MVC-challenge/issues"
   },
-  "homepage": "https://github.com/KrispyWing/mvc-blog#readme",
+  "homepage": "https://github.com/LKocaj/14-MVC-challenge#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.4",
